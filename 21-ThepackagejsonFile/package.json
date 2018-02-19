@@ -1,0 +1,18 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "package file demo",
+  "main": "app",
+  "scripts": {
+    "test": "package test command"
+  },
+  "keywords": [
+    "node",
+    "package"
+  ],
+  "author": "Raju Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
