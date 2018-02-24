@@ -1,0 +1,20 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Partial page in Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "partial",
+    "template"
+  ],
+  "author": "Raju Singh",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
